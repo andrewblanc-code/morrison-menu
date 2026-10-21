@@ -71,8 +71,27 @@ main{padding-block:16px 48px;display:grid;gap:24px}
 .hidden-note{font-size:14px;color:var(--muted)}
 footer{color:var(--muted);font-size:13px;padding-block:0 32px}
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
+[hidden]{display:none!important}
+.gate{position:fixed;inset:0;z-index:50;background:rgba(20,12,12,.6);display:flex;align-items:center;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.gate-card{background:var(--surface);color:var(--fg);border-radius:12px;max-width:460px;width:100%;max-height:100%;overflow:auto;padding:22px 20px;box-shadow:0 12px 40px rgba(0,0,0,.3)}
+.gate-card h2{font-family:var(--display);font-weight:800;font-size:22px;margin:0 0 10px}
+.gate-card ul{margin:0 0 16px;padding-left:20px;display:grid;gap:6px}
+.gate-card button{width:100%;font:inherit;font-weight:700;font-size:16px;padding:12px;border:0;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer}
+.gate-card button:focus-visible{outline:2px solid var(--fg);outline-offset:2px}
 </style>
 
+<div class="gate" id="gate" role="dialog" aria-modal="true" aria-labelledby="gateTitle" hidden>
+  <div class="gate-card">
+    <h2 id="gateTitle">Before you look</h2>
+    <ul>
+      <li>This site is for information only. It is a student project and is not run by Cornell Dining.</li>
+      <li>Ingredients and allergens may be incomplete, out of date, or wrong, and recipes can change without notice.</li>
+      <li>Dining halls share kitchens, so any dish may come into contact with other allergens.</li>
+      <li><b>If you have a food allergy, always confirm with dining staff before you eat.</b></li>
+    </ul>
+    <button type="button" id="gateOk">I understand</button>
+  </div>
+</div>
 <div class="wrap">
   <header>
     <div class="eyebrow">Morrison Dining · Toni Morrison Hall</div>
@@ -180,6 +199,8 @@ $("q").addEventListener("input",e=>{state.q=e.target.value;render()});
 $("pulled").textContent=new Date(MENU.pulled+"T12:00:00").toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});
 if(state.avoid.size||state.diet)$("avoidBox").open=true;
 pickDefaults();render();
+if(!store.get("agreed",false)){$("gate").hidden=false;$("gateOk").focus()}
+$("gateOk").addEventListener("click",e=>{e.stopPropagation();store.set("agreed",true);$("gate").hidden=true});
 // Load the latest menu straight from Cornell Dining Now; keep the built-in copy if that fails
 fetch("https://admin-now.dining.cornell.edu/api/1.0/dining/eateries.json").then(r=>r.json()).then(j=>{
   const m=j.data.eateries.find(e=>e.slug==="Morrison-Dining");if(!m)return;
