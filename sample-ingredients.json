@@ -1,0 +1,1800 @@
+{
+ "6\" Flour Tortilla Wraps": {
+  "ingredients": "enriched wheat flour, water, vegetable shortening, baking powder, salt",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Almond, Raspberry & Gorgonzola Salad": {
+  "ingredients": "mixed greens, gorgonzola cheese, toasted almonds, raspberries, raspberry vinaigrette",
+  "allergens": [
+   "M",
+   "TN"
+  ],
+  "diet": "VG"
+ },
+ "Ancho Chili Fish": {
+  "ingredients": "pollock, ancho chili powder, garlic, cumin, lime juice, canola oil, salt",
+  "allergens": [
+   "F"
+  ],
+  "diet": ""
+ },
+ "Ancho Pork Butt": {
+  "ingredients": "pork shoulder, ancho chili, garlic, onion, cumin, oregano, orange juice, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "Apple Cinnamon Overnight Oats": {
+  "ingredients": "rolled oats, oat milk, diced apples, cinnamon, maple syrup, chia seeds",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Arugula Beet Pear & Goat Cheese Salad": {
+  "ingredients": "arugula, roasted beets, pears, goat cheese, balsamic vinaigrette",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Asian BBQ Pork": {
+  "ingredients": "pork shoulder, hoisin sauce, soy sauce, honey, garlic, ginger, five spice",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Asian Chicken Dumpling Soup": {
+  "ingredients": "chicken dumplings (wheat flour, chicken, cabbage), chicken broth, bok choy, scallion, soy sauce, ginger",
+  "allergens": [
+   "W",
+   "S"
+  ],
+  "diet": ""
+ },
+ "Assorted Cereals": {
+  "ingredients": "varies by cereal; check package labels at the station",
+  "allergens": [
+   "W",
+   "M",
+   "TN",
+   "P",
+   "S"
+  ],
+  "diet": ""
+ },
+ "Assorted Fresh Fruit & Cornell Yogurt": {
+  "ingredients": "seasonal fruit, Cornell Dairy yogurt (milk, live cultures)",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Assorted Hot & Cold Beverages": {
+  "ingredients": "coffee, tea, juices, milk, soda",
+  "allergens": [
+   "M"
+  ],
+  "diet": ""
+ },
+ "Assorted Mini Bagels": {
+  "ingredients": "enriched wheat flour, water, malt, yeast, salt, sesame seeds, poppy seeds",
+  "allergens": [
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Assorted Roasted Vegetables": {
+  "ingredients": "seasonal vegetables, olive oil, garlic, herbs, salt, pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Assorted Rolls": {
+  "ingredients": "enriched wheat flour, water, yeast, sugar, soybean oil, salt",
+  "allergens": [
+   "W",
+   "S"
+  ],
+  "diet": "V"
+ },
+ "Assorted Salad Bar Toppings": {
+  "ingredients": "cucumbers, tomatoes, carrots, chickpeas, sunflower seeds, shredded cheese, croutons, hard boiled eggs",
+  "allergens": [
+   "M",
+   "E",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Assorted Salads, Veggies & Greens": {
+  "ingredients": "romaine, spring mix, spinach, seasonal vegetables",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Assorted Small Muffins": {
+  "ingredients": "wheat flour, sugar, eggs, milk, butter, canola oil, baking powder, blueberries",
+  "allergens": [
+   "W",
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "BBQ Chicken Pizza": {
+  "ingredients": "pizza dough (wheat flour, yeast, olive oil), BBQ sauce, chicken, mozzarella, red onion, cilantro",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "BBQ Tofu with Smoked Tomatoes": {
+  "ingredients": "tofu, BBQ sauce, smoked tomatoes, onion, garlic, smoked paprika",
+  "allergens": [
+   "S"
+  ],
+  "diet": "V"
+ },
+ "Bacon": {
+  "ingredients": "pork bacon (cured with salt, sugar, sodium nitrite)",
+  "allergens": [],
+  "diet": ""
+ },
+ "Bacon & Cheese Omelet": {
+  "ingredients": "eggs, bacon, cheddar cheese, butter, salt, pepper",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Basmati Rice": {
+  "ingredients": "basmati rice, water, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Beef & Mushroom Stew": {
+  "ingredients": "beef chuck, mushrooms, onions, carrots, beef broth, tomato paste, wheat flour, thyme",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Beef Bulgogi": {
+  "ingredients": "beef sirloin, soy sauce, Asian pear, garlic, sesame oil, brown sugar, scallion",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Beef Burgundy": {
+  "ingredients": "beef chuck, red wine, mushrooms, pearl onions, carrots, beef broth, wheat flour, thyme",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Beef Grillades": {
+  "ingredients": "beef round, onions, bell peppers, celery, tomatoes, beef broth, wheat flour, Creole seasoning",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Beef Stroganoff": {
+  "ingredients": "beef strips, mushrooms, onions, sour cream, beef broth, wheat flour, egg noodles",
+  "allergens": [
+   "M",
+   "W",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Berry Couscous Salad": {
+  "ingredients": "couscous (wheat), mixed berries, mint, lemon juice, olive oil, honey",
+  "allergens": [
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Bombay Curry Chicken": {
+  "ingredients": "chicken thighs, onion, tomato, curry powder, ginger, garlic, coconut milk, cilantro",
+  "allergens": [],
+  "diet": ""
+ },
+ "Braised Pork": {
+  "ingredients": "pork shoulder, onion, garlic, chicken broth, bay leaf, black pepper, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "Breakfast Meat & Cheese Pizza": {
+  "ingredients": "pizza dough (wheat flour), scrambled eggs, sausage, bacon, mozzarella, cheddar",
+  "allergens": [
+   "W",
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Broccoli & Roasted Red Peppers": {
+  "ingredients": "broccoli, roasted red peppers, olive oil, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Brussels Sprouts with Apples & Almonds": {
+  "ingredients": "Brussels sprouts, apples, sliced almonds, olive oil, maple syrup, salt",
+  "allergens": [
+   "TN"
+  ],
+  "diet": "V"
+ },
+ "Burger & Hot Dog Bar": {
+  "ingredients": "beef patties, beef hot dogs, wheat buns, cheese slices, lettuce, tomato, onion, pickles, condiments",
+  "allergens": [
+   "W",
+   "M",
+   "S",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Cabbage & Carrots": {
+  "ingredients": "green cabbage, carrots, canola oil, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cabbage, Carrots & Snow Peas": {
+  "ingredients": "green cabbage, carrots, snow peas, canola oil, garlic, ginger",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cabbage, Mushroom, Carrot, & Snow Peas": {
+  "ingredients": "cabbage, mushrooms, carrots, snow peas, soy sauce, garlic, ginger",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Cajun Beans & Rice": {
+  "ingredients": "red beans, long grain rice, onion, celery, bell pepper, Cajun spice, vegetable broth",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cajun Corn": {
+  "ingredients": "corn, bell peppers, onion, Cajun seasoning, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cajun Fish": {
+  "ingredients": "pollock, Cajun seasoning, paprika, garlic, lemon, canola oil",
+  "allergens": [
+   "F"
+  ],
+  "diet": ""
+ },
+ "Cajun Quinoa & Black Bean Salad": {
+  "ingredients": "quinoa, black beans, corn, bell peppers, red onion, Cajun spice, lime vinaigrette",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Calabacitas": {
+  "ingredients": "zucchini, yellow squash, corn, tomatoes, onion, green chiles, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cauliflower & Curried Lentils": {
+  "ingredients": "cauliflower, green lentils, onion, curry powder, turmeric, tomato, coconut oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Chana Masala": {
+  "ingredients": "chickpeas, onion, tomato, garam masala, ginger, garlic, cilantro, canola oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Chana Saag - Chickpea & Spinach Curry": {
+  "ingredients": "chickpeas, spinach, onion, tomato, ginger, garlic, cumin, garam masala",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cheddar Cheese Omelet": {
+  "ingredients": "eggs, cheddar cheese, butter, salt, pepper",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Cheese Pizza": {
+  "ingredients": "pizza dough (wheat flour, yeast, olive oil), tomato sauce, mozzarella, parmesan",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Chef's Choice Pasta": {
+  "ingredients": "house-made pasta (semolina wheat, eggs), sauce varies daily",
+  "allergens": [
+   "W",
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Chicken Pot Pie": {
+  "ingredients": "chicken, peas, carrots, celery, onion, cream, butter, wheat flour, pie crust",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Chicken Souvlaki": {
+  "ingredients": "chicken thighs, lemon juice, olive oil, garlic, oregano, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "Chicken Tikka Masala": {
+  "ingredients": "chicken thighs, yogurt, tomato, cream, garam masala, ginger, garlic, butter",
+  "allergens": [
+   "M"
+  ],
+  "diet": ""
+ },
+ "Chicken Vindaloo": {
+  "ingredients": "chicken thighs, vinegar, chili, garlic, ginger, cumin, onion, tomato",
+  "allergens": [],
+  "diet": ""
+ },
+ "Chickpea Tagine": {
+  "ingredients": "chickpeas, tomato, carrots, onion, apricots, cumin, cinnamon, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Chile & Herb Roasted Chicken": {
+  "ingredients": "chicken, red chile, parsley, oregano, garlic, olive oil, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "Chili Lime Street Corn": {
+  "ingredients": "corn, mayonnaise, cotija cheese, chili powder, lime, cilantro",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Chili Lime Tofu": {
+  "ingredients": "tofu, chili powder, lime juice, garlic, canola oil, salt",
+  "allergens": [
+   "S"
+  ],
+  "diet": "V"
+ },
+ "Chili Roasted Edamame": {
+  "ingredients": "edamame, chili flakes, garlic, sesame oil, salt",
+  "allergens": [
+   "S",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Chipotle Chicken & Corn Soup": {
+  "ingredients": "chicken, corn, chipotle peppers, onion, chicken broth, cream, cumin",
+  "allergens": [
+   "M"
+  ],
+  "diet": ""
+ },
+ "Chocolate Chip Cookies": {
+  "ingredients": "wheat flour, sugar, margarine, chocolate chips, eggs, vanilla, baking soda",
+  "allergens": [
+   "W",
+   "E",
+   "S"
+  ],
+  "diet": "VG"
+ },
+ "Chutney Green Haree": {
+  "ingredients": "cilantro, mint, green chili, lemon juice, ginger, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cilantro & Lime Chicken Thigh": {
+  "ingredients": "chicken thighs, cilantro, lime juice, garlic, olive oil, cumin",
+  "allergens": [],
+  "diet": ""
+ },
+ "Cilantro Rice": {
+  "ingredients": "long grain rice, cilantro, lime juice, canola oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Coconut Chia Seed Pudding": {
+  "ingredients": "chia seeds, coconut milk, maple syrup, vanilla, toasted coconut",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Coconut Jasmine Rice": {
+  "ingredients": "jasmine rice, coconut milk, water, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cod Oreganata": {
+  "ingredients": "cod, breadcrumbs (wheat), oregano, garlic, lemon, olive oil, parsley",
+  "allergens": [
+   "F",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Cole Slaw": {
+  "ingredients": "green cabbage, carrots, mayonnaise, vinegar, sugar, celery seed",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Coleslaw": {
+  "ingredients": "green cabbage, carrots, mayonnaise, vinegar, sugar, celery seed",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Congee Bar": {
+  "ingredients": "rice porridge, ginger, scallions, fried shallots, soy sauce, chili oil, peanuts, soft eggs",
+  "allergens": [
+   "S",
+   "W",
+   "P",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Corn Cobbette": {
+  "ingredients": "corn on the cob, butter, salt",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Cornell Broccoli Cheddar Soup": {
+  "ingredients": "broccoli, cheddar cheese, milk, cream, onion, butter, wheat flour",
+  "allergens": [
+   "M",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Cornell Chicken Noodle Soup": {
+  "ingredients": "chicken, egg noodles, carrots, celery, onion, chicken broth, thyme",
+  "allergens": [
+   "W",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Cornell Dairy Ice Cream": {
+  "ingredients": "Cornell Dairy milk, cream, sugar, flavorings (some flavors contain nuts, eggs or cookies)",
+  "allergens": [
+   "M",
+   "E",
+   "TN",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Cornell Egg Drop Soup": {
+  "ingredients": "chicken broth, eggs, cornstarch, scallion, white pepper, sesame oil",
+  "allergens": [
+   "E",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Costa Rican Chifrijo Bowl": {
+  "ingredients": "rice, black beans, fried pork, pico de gallo, avocado, tortilla chips",
+  "allergens": [],
+  "diet": ""
+ },
+ "Creamy Parmesan Polenta": {
+  "ingredients": "cornmeal, milk, parmesan cheese, butter, salt",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Create Your Own Deli Sandwich": {
+  "ingredients": "assorted breads (wheat), turkey, ham, roast beef, cheeses, lettuce, tomato, condiments",
+  "allergens": [
+   "W",
+   "M",
+   "E",
+   "S",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Create Your Own Waffle": {
+  "ingredients": "waffle batter (wheat flour, eggs, milk, sugar, baking powder), toppings: syrup, whipped cream, fruit, chocolate chips",
+  "allergens": [
+   "W",
+   "E",
+   "M",
+   "S"
+  ],
+  "diet": "VG"
+ },
+ "Crispy Cumin Potatoes": {
+  "ingredients": "potatoes, cumin, garlic, canola oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cuban Black Beans": {
+  "ingredients": "black beans, onion, bell pepper, garlic, cumin, oregano, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cuban Braised Chicken": {
+  "ingredients": "chicken thighs, tomato, onion, bell pepper, olives, garlic, cumin, orange juice",
+  "allergens": [],
+  "diet": ""
+ },
+ "Cucumber Tomato Salad": {
+  "ingredients": "cucumbers, tomatoes, red onion, olive oil, red wine vinegar, dill",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Cumin Roasted Chickpeas": {
+  "ingredients": "chickpeas, cumin, smoked paprika, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Customizable Iron Grill Stir-Fry": {
+  "ingredients": "choice of chicken, beef or tofu, vegetables, rice or noodles, soy sauce, teriyaki sauce, sesame oil",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Dessert Bars": {
+  "ingredients": "wheat flour, sugar, butter, eggs, chocolate, oats",
+  "allergens": [
+   "W",
+   "M",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Diced Tomato": {
+  "ingredients": "fresh tomatoes",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Dip Medium Salsa Chi-Chi's 15.5 oz": {
+  "ingredients": "tomatoes, onions, jalape\u00f1o peppers, vinegar, salt, spices",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Dole Fruit Soft Serve": {
+  "ingredients": "fruit pur\u00e9e, water, sugar, pectin",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Egg & Kale Shakshuka": {
+  "ingredients": "eggs, kale, tomatoes, onion, bell pepper, garlic, cumin, paprika",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Egg Salad": {
+  "ingredients": "hard boiled eggs, mayonnaise, mustard, celery, salt, pepper",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Eggplant & Tofu Stir-Fry": {
+  "ingredients": "eggplant, tofu, garlic, ginger, soy sauce, scallion, canola oil",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Eggplant Stir-Fry": {
+  "ingredients": "eggplant, garlic, ginger, soy sauce, chili, scallion",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Escalivida - Spanish Grilled Vegetables": {
+  "ingredients": "eggplant, red peppers, onions, tomatoes, olive oil, sherry vinegar, garlic",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Escalivida - Spanish Vegetables": {
+  "ingredients": "eggplant, red peppers, onions, tomatoes, olive oil, sherry vinegar, garlic",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Farro, Sweet Potato & Goat Cheese Salad": {
+  "ingredients": "farro (wheat), roasted sweet potato, goat cheese, arugula, cider vinaigrette",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Filipino Breakfast Bowl": {
+  "ingredients": "garlic fried rice, longganisa sausage, fried egg, pickled papaya, soy sauce",
+  "allergens": [
+   "E",
+   "S",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Fire Roasted Cauliflower": {
+  "ingredients": "cauliflower, olive oil, smoked paprika, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Fire Seared Roasted Button Mushrooms": {
+  "ingredients": "button mushrooms, olive oil, garlic, thyme, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Flame Roasted Cut Corn": {
+  "ingredients": "corn, canola oil, salt, black pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Flavor Infused Water Station": {
+  "ingredients": "filtered water, fresh fruit, herbs",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Flour Tortilla Wraps": {
+  "ingredients": "enriched wheat flour, water, vegetable shortening, baking powder, salt",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Fontina Arancini": {
+  "ingredients": "arborio rice, fontina cheese, parmesan, eggs, breadcrumbs (wheat), marinara",
+  "allergens": [
+   "M",
+   "E",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "French Toast Sticks": {
+  "ingredients": "bread (wheat), eggs, milk, cinnamon, sugar, vanilla",
+  "allergens": [
+   "W",
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Fresh Baked Cookies": {
+  "ingredients": "wheat flour, sugar, butter, eggs, vanilla, baking soda, mix-ins vary",
+  "allergens": [
+   "W",
+   "M",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Fresh Baked Vegan Cookies": {
+  "ingredients": "wheat flour, sugar, coconut oil, flaxseed, vanilla, baking soda",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Fresh Fruit Smoothies": {
+  "ingredients": "strawberries, bananas, mango, apple juice, yogurt",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Fresh New England Sea Clam Chowder": {
+  "ingredients": "clams, potatoes, onion, celery, cream, milk, butter, wheat flour, bacon",
+  "allergens": [
+   "SF",
+   "M",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Fresh Whole Fruit": {
+  "ingredients": "apples, oranges, bananas",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Fruit & Yogurt Bar": {
+  "ingredients": "Cornell Dairy yogurt, granola (oats, honey, almonds), fresh fruit, seeds",
+  "allergens": [
+   "M",
+   "W",
+   "TN"
+  ],
+  "diet": "VG"
+ },
+ "Garlic & Lemon Potatoes": {
+  "ingredients": "potatoes, garlic, lemon juice, olive oil, parsley, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Garlic Green Beans": {
+  "ingredients": "green beans, garlic, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Garlic Jasmine Rice": {
+  "ingredients": "jasmine rice, garlic, canola oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Garlic Lime Chicken Thighs": {
+  "ingredients": "chicken thighs, garlic, lime juice, olive oil, cumin, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "General Tso Tofu": {
+  "ingredients": "tofu, cornstarch, soy sauce, sugar, rice vinegar, garlic, ginger, chili",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Ginger & Scallion MSC Fresh Pollock": {
+  "ingredients": "pollock, ginger, scallions, soy sauce, sesame oil, rice wine",
+  "allergens": [
+   "F",
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Grains For Brains": {
+  "ingredients": "quinoa, farro (wheat), brown rice, lentils, herbs, lemon, olive oil",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Greek Bulgur Salad": {
+  "ingredients": "bulgur wheat, cucumbers, tomatoes, red onion, kalamata olives, feta, lemon, oregano",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Greek Chili Yogurt Sauce": {
+  "ingredients": "Greek yogurt, garlic, chili flakes, lemon, dill, salt",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Greek Egg Scramble with Lentils & Feta": {
+  "ingredients": "eggs, lentils, feta cheese, spinach, tomatoes, oregano",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Greek Omelet": {
+  "ingredients": "eggs, spinach, tomatoes, feta cheese, kalamata olives, butter",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Green Beans with Sweet & Savory Shallots": {
+  "ingredients": "green beans, shallots, brown sugar, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Green Beans with Toasted Almonds": {
+  "ingredients": "green beans, toasted almonds, olive oil, garlic, salt",
+  "allergens": [
+   "TN"
+  ],
+  "diet": "V"
+ },
+ "Green Leaf Lettuce": {
+  "ingredients": "green leaf lettuce",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Green Tahini Sauce": {
+  "ingredients": "tahini (sesame), parsley, cilantro, lemon juice, garlic, water, salt",
+  "allergens": [
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Grilled Beef Franks": {
+  "ingredients": "beef franks (beef, water, salt, spices, sodium nitrite)",
+  "allergens": [],
+  "diet": ""
+ },
+ "Ground Beef Fajita Filling": {
+  "ingredients": "ground beef, bell peppers, onions, chili powder, cumin, garlic, lime",
+  "allergens": [],
+  "diet": ""
+ },
+ "Gyudon Bowl": {
+  "ingredients": "thin-sliced beef, onion, soy sauce, mirin, dashi, steamed rice, scallion",
+  "allergens": [
+   "S",
+   "W",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Halal Spicy Beef": {
+  "ingredients": "halal beef, chili paste, garlic, onion, cumin, paprika, tomato",
+  "allergens": [],
+  "diet": ""
+ },
+ "Ham, Bacon & Potato Breakfast Bake": {
+  "ingredients": "eggs, ham, bacon, potatoes, cheddar cheese, milk, onion",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Hard Boiled Eggs": {
+  "ingredients": "eggs",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Hearty Whole Grains & Legumes": {
+  "ingredients": "farro (wheat), brown rice, chickpeas, black beans, lentils",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Herb Roasted Summer Squash & Zucchini": {
+  "ingredients": "yellow squash, zucchini, olive oil, basil, thyme, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Herb Roasted Zucchini & Tomatoes": {
+  "ingredients": "zucchini, tomatoes, olive oil, oregano, basil, garlic",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Herb Vinaigrette Cucumber Tomato Salad": {
+  "ingredients": "cucumbers, tomatoes, red onion, herb vinaigrette (olive oil, vinegar, parsley)",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Home Fries": {
+  "ingredients": "potatoes, onions, bell peppers, canola oil, paprika, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Honey Baked Chicken": {
+  "ingredients": "chicken, honey, Dijon mustard, garlic, thyme, olive oil",
+  "allergens": [],
+  "diet": ""
+ },
+ "Honey Glazed Carrots with Walnuts": {
+  "ingredients": "carrots, honey, butter, walnuts, salt",
+  "allergens": [
+   "TN",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Hoppin' John - Peas & Rice": {
+  "ingredients": "black-eyed peas, rice, onion, celery, bell pepper, garlic, thyme",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Hot & Sour Soup": {
+  "ingredients": "tofu, mushrooms, bamboo shoots, eggs, soy sauce, rice vinegar, white pepper, cornstarch",
+  "allergens": [
+   "S",
+   "W",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Hungarian Beef Goulash": {
+  "ingredients": "beef chuck, onions, paprika, tomato, bell pepper, caraway, beef broth",
+  "allergens": [],
+  "diet": ""
+ },
+ "Italian Sausage with Peppers & Onions": {
+  "ingredients": "pork Italian sausage, bell peppers, onions, olive oil, garlic",
+  "allergens": [],
+  "diet": ""
+ },
+ "Katz GF Oat Bread": {
+  "ingredients": "gluten-free oat flour, tapioca starch, eggs, sugar, yeast, palm oil",
+  "allergens": [
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Kimchi": {
+  "ingredients": "napa cabbage, Korean chili flakes, garlic, ginger, fish sauce, scallion",
+  "allergens": [
+   "F"
+  ],
+  "diet": ""
+ },
+ "Kimchi Fried Rice": {
+  "ingredients": "rice, kimchi, egg, scallion, soy sauce, sesame oil, gochujang",
+  "allergens": [
+   "E",
+   "S",
+   "W",
+   "SE",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Kimchi Soup": {
+  "ingredients": "kimchi, tofu, onion, gochujang, scallion, vegetable broth",
+  "allergens": [
+   "S",
+   "W",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Korean BBQ Chicken Thigh": {
+  "ingredients": "chicken thighs, gochujang, soy sauce, garlic, ginger, brown sugar, sesame oil",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Korean BBQ Tofu": {
+  "ingredients": "tofu, gochujang, soy sauce, garlic, ginger, brown sugar, sesame seeds",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Korean Braised Potatoes": {
+  "ingredients": "potatoes, soy sauce, sugar, garlic, sesame oil, sesame seeds",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Lamb Curry": {
+  "ingredients": "lamb, onion, tomato, yogurt, garam masala, ginger, garlic, cilantro",
+  "allergens": [
+   "M"
+  ],
+  "diet": ""
+ },
+ "Lap Cheong Sausage & Egg Scramble": {
+  "ingredients": "eggs, lap cheong (pork, sugar, soy sauce, rice wine), scallion",
+  "allergens": [
+   "E",
+   "S",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Lemon Chili Broccoli": {
+  "ingredients": "broccoli, lemon zest, chili flakes, olive oil, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Lemon Rice": {
+  "ingredients": "basmati rice, lemon juice, turmeric, mustard seeds, curry leaves, canola oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Lentil & Butternut Stew": {
+  "ingredients": "lentils, butternut squash, onion, carrot, tomato, cumin, vegetable broth",
+  "allergens": [],
+  "diet": "V"
+ },
+ "MSC Lemon Baked Cod": {
+  "ingredients": "cod, lemon, butter, parsley, garlic, salt",
+  "allergens": [
+   "F",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Mac & Cheese": {
+  "ingredients": "elbow macaroni (wheat), cheddar cheese, milk, butter, wheat flour",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Mac & Cheese Pizza": {
+  "ingredients": "pizza dough (wheat flour), macaroni, cheddar, mozzarella, milk, butter",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Macaroni & Cheese": {
+  "ingredients": "elbow macaroni (wheat), cheddar cheese, milk, butter, wheat flour",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Malaysian Ayam Masak Lemak": {
+  "ingredients": "chicken, coconut milk, turmeric, lemongrass, chili, shallots, garlic",
+  "allergens": [],
+  "diet": ""
+ },
+ "Margherita Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, fresh mozzarella, basil, olive oil",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Massaman Thai Curry Pork Butt": {
+  "ingredients": "pork shoulder, massaman curry paste, coconut milk, potatoes, peanuts, fish sauce",
+  "allergens": [
+   "P",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Mayan Corn, Black Bean & Mango Salad": {
+  "ingredients": "corn, black beans, mango, red pepper, red onion, cilantro, lime juice",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Meat Lovers Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, mozzarella, pepperoni, sausage, bacon, ham",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Meatless Chick'n & Udon Stir-Fry": {
+  "ingredients": "plant-based chicken (soy protein, wheat gluten), udon noodles, vegetables, teriyaki sauce",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Meatless Meatball & Marinara": {
+  "ingredients": "plant-based meatballs (soy, wheat gluten), marinara sauce, pasta",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Mexican Corn": {
+  "ingredients": "corn, bell peppers, onion, chili powder, lime, cilantro",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Mexican Street Corn": {
+  "ingredients": "corn, mayonnaise, cotija cheese, chili powder, lime, cilantro",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Miso Soup": {
+  "ingredients": "miso (soybeans), dashi, tofu, seaweed, scallion",
+  "allergens": [
+   "S",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Mojito Chicken": {
+  "ingredients": "chicken, lime juice, orange juice, mint, garlic, cumin, olive oil",
+  "allergens": [],
+  "diet": ""
+ },
+ "Mujaddarah - Jordanian Rice & Lentils": {
+  "ingredients": "rice, brown lentils, caramelized onions, cumin, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Mushroom Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, mozzarella, mushrooms",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Nasi Goreng Kampung": {
+  "ingredients": "rice, anchovies, shallots, garlic, chili, kecap manis (soy), egg",
+  "allergens": [
+   "F",
+   "S",
+   "W",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Oatmeal with Brown Sugar & Raisins": {
+  "ingredients": "rolled oats, water, brown sugar, raisins, salt",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Oven Roasted Brussels Sprouts": {
+  "ingredients": "Brussels sprouts, olive oil, salt, pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Oven Roasted Potatoes": {
+  "ingredients": "potatoes, olive oil, rosemary, salt, pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Pancakes with Syrup": {
+  "ingredients": "wheat flour, milk, eggs, sugar, baking powder, butter, syrup",
+  "allergens": [
+   "W",
+   "M",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Pasta": {
+  "ingredients": "semolina wheat pasta",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Pasta & Meat Sauce": {
+  "ingredients": "pasta (wheat), ground beef, tomato sauce, onion, garlic, oregano",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Pasta Bolognese": {
+  "ingredients": "pasta (wheat), ground beef, tomatoes, carrots, celery, onion, red wine",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Pasta with Lentil Bolognese": {
+  "ingredients": "pasta (wheat), lentils, tomatoes, carrots, celery, onion, garlic",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Pepperoni Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, mozzarella, pepperoni",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Peruvian Roasted Chicken": {
+  "ingredients": "chicken, cumin, paprika, garlic, lime, aji amarillo, oregano",
+  "allergens": [],
+  "diet": ""
+ },
+ "Pickled Daikon Salad": {
+  "ingredients": "daikon radish, carrots, rice vinegar, sugar, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Pickled Red Onions": {
+  "ingredients": "red onions, vinegar, sugar, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Pork & Vegetable Stir Fry": {
+  "ingredients": "pork, broccoli, carrots, peppers, soy sauce, garlic, ginger",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Pork Bahn Mi": {
+  "ingredients": "roast pork, baguette (wheat), pickled carrot and daikon, cilantro, jalape\u00f1o, mayonnaise",
+  "allergens": [
+   "W",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Pork Breakfast Sausage": {
+  "ingredients": "pork, salt, sage, black pepper, sugar",
+  "allergens": [],
+  "diet": ""
+ },
+ "Pork Sausage Patty": {
+  "ingredients": "pork, salt, sage, black pepper, sugar",
+  "allergens": [],
+  "diet": ""
+ },
+ "Potato Knish": {
+  "ingredients": "potato, onion, wheat flour dough, eggs, vegetable oil",
+  "allergens": [
+   "W",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Raita - Yogurt Sauce": {
+  "ingredients": "yogurt, cucumber, cumin, mint, salt",
+  "allergens": [
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Red Leaf Lettuce": {
+  "ingredients": "red leaf lettuce",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Red Wine Beef Stew": {
+  "ingredients": "beef chuck, red wine, carrots, potatoes, onion, beef broth, wheat flour",
+  "allergens": [
+   "W"
+  ],
+  "diet": ""
+ },
+ "Ricotta Eggplant Bake": {
+  "ingredients": "eggplant, ricotta, mozzarella, parmesan, marinara, eggs, breadcrumbs (wheat)",
+  "allergens": [
+   "M",
+   "E",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Roasted Broccoli": {
+  "ingredients": "broccoli, olive oil, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Butternut Squash": {
+  "ingredients": "butternut squash, olive oil, cinnamon, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Chicken Quarters with Jus": {
+  "ingredients": "chicken quarters, chicken jus, garlic, thyme, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "Roasted Corn Carrots & Fennel": {
+  "ingredients": "corn, carrots, fennel, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Garlic & Herb Potatoes": {
+  "ingredients": "potatoes, roasted garlic, parsley, rosemary, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Green Beans": {
+  "ingredients": "green beans, olive oil, salt, pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Mushrooms": {
+  "ingredients": "mushrooms, olive oil, garlic, thyme",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Pork with Spiced Cider Glaze": {
+  "ingredients": "pork loin, apple cider, brown sugar, cinnamon, clove, Dijon mustard",
+  "allergens": [],
+  "diet": ""
+ },
+ "Roasted Roma Tomatoes & Peppers": {
+  "ingredients": "Roma tomatoes, bell peppers, olive oil, basil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Summer Vegetables": {
+  "ingredients": "zucchini, squash, peppers, onions, olive oil, herbs",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Sweet Potatoes": {
+  "ingredients": "sweet potatoes, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Tomato": {
+  "ingredients": "tomatoes, olive oil, salt, pepper",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Roasted Vegetable Omelet": {
+  "ingredients": "eggs, roasted peppers, onions, mushrooms, spinach, butter",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Roasted Vegetables": {
+  "ingredients": "seasonal vegetables, olive oil, herbs, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Ropa Vieja - Cuban Shredded Beef": {
+  "ingredients": "beef flank, tomatoes, bell peppers, onions, olives, garlic, cumin",
+  "allergens": [],
+  "diet": ""
+ },
+ "Rosemary & White Bean Stew": {
+  "ingredients": "cannellini beans, rosemary, garlic, tomatoes, vegetable broth, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Rosemary Focaccia": {
+  "ingredients": "wheat flour, olive oil, rosemary, yeast, sea salt",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Rustic Farmstyle Herb Chicken": {
+  "ingredients": "chicken, rosemary, thyme, garlic, olive oil, salt",
+  "allergens": [],
+  "diet": ""
+ },
+ "S'mores Breakfast Oats": {
+  "ingredients": "rolled oats, milk, chocolate chips, graham crackers (wheat), marshmallows",
+  "allergens": [
+   "W",
+   "M",
+   "S"
+  ],
+  "diet": ""
+ },
+ "Salad Dressing": {
+  "ingredients": "varies: ranch (milk, egg), Caesar (fish, egg, milk), balsamic, Italian",
+  "allergens": [
+   "M",
+   "E",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Sambal Eggplant": {
+  "ingredients": "eggplant, sambal oelek (chili), garlic, shallots, soy sauce, sugar",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Sausage Gravy & Biscuits": {
+  "ingredients": "pork sausage, milk, wheat flour, butter, biscuits (wheat, buttermilk)",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Sauteed Broccoli & Cauliflower": {
+  "ingredients": "broccoli, cauliflower, olive oil, garlic, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Scrambled Eggs": {
+  "ingredients": "eggs, butter, salt",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Scrambled Tofu": {
+  "ingredients": "tofu, turmeric, onion, bell pepper, nutritional yeast, canola oil",
+  "allergens": [
+   "S"
+  ],
+  "diet": "V"
+ },
+ "Sesame Soy Marinated Tofu": {
+  "ingredients": "tofu, soy sauce, sesame oil, garlic, ginger, sesame seeds",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Shredded Lettuce": {
+  "ingredients": "iceberg lettuce",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Shrimp & Broccoli Stir Fry": {
+  "ingredients": "shrimp, broccoli, garlic, ginger, soy sauce, oyster sauce, cornstarch",
+  "allergens": [
+   "SF",
+   "S",
+   "W"
+  ],
+  "diet": ""
+ },
+ "Simply Steamed Fresh Cauliflower": {
+  "ingredients": "cauliflower",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Simply Steamed Green Beans": {
+  "ingredients": "green beans",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Simply Steamed Green Beans & Carrots": {
+  "ingredients": "green beans, carrots",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Smoked Salmon, Bagels & Cream Cheese": {
+  "ingredients": "smoked salmon, bagels (wheat, sesame), cream cheese, capers, red onion",
+  "allergens": [
+   "F",
+   "W",
+   "M",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Spicy Gochujang Tofu & Vegetables": {
+  "ingredients": "tofu, gochujang (wheat, soy), broccoli, carrots, garlic, sesame oil",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Spicy Nacho Beef": {
+  "ingredients": "ground beef, chili powder, cumin, jalape\u00f1o, tomato, onion",
+  "allergens": [],
+  "diet": ""
+ },
+ "Spinach Filo": {
+  "ingredients": "spinach, feta cheese, filo dough (wheat), eggs, onion, olive oil",
+  "allergens": [
+   "M",
+   "W",
+   "E"
+  ],
+  "diet": "VG"
+ },
+ "Ssamjang Sauce": {
+  "ingredients": "soybean paste, gochujang, sesame oil, garlic, scallion",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Steamed Basmati Rice": {
+  "ingredients": "basmati rice, water",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Steamed Carrots": {
+  "ingredients": "carrots",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Steamed Jasmine Rice": {
+  "ingredients": "jasmine rice, water",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Steamed Vegetable Melange": {
+  "ingredients": "broccoli, cauliflower, carrots, green beans",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Stewed Garbanzo Beans": {
+  "ingredients": "chickpeas, tomatoes, onion, garlic, cumin, olive oil",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Stir Fried Cabbage with Red Peppers": {
+  "ingredients": "cabbage, red bell peppers, garlic, soy sauce, canola oil",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Stir Fry Bean Sprouts": {
+  "ingredients": "mung bean sprouts, scallion, garlic, sesame oil, salt",
+  "allergens": [
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Strawberry Banana Overnight Oats": {
+  "ingredients": "rolled oats, oat milk, strawberries, banana, maple syrup, chia seeds",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Summer Squash & Zucchini": {
+  "ingredients": "yellow squash, zucchini, olive oil, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Sunrise Omelet Bar": {
+  "ingredients": "eggs or egg whites, cheeses, ham, bacon, peppers, onions, mushrooms, spinach, tomatoes",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Sweet & Sour Chicken": {
+  "ingredients": "breaded chicken (wheat flour), pineapple, bell peppers, sweet and sour sauce, soy sauce",
+  "allergens": [
+   "W",
+   "S"
+  ],
+  "diet": ""
+ },
+ "Sweet & Spicy Sesame Korean Pork": {
+  "ingredients": "pork, gochujang, soy sauce, honey, sesame oil, sesame seeds, garlic",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": ""
+ },
+ "Sweet Ginger Sesame Glaze": {
+  "ingredients": "soy sauce, ginger, brown sugar, sesame oil, rice vinegar, sesame seeds",
+  "allergens": [
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "V"
+ },
+ "Tabbouleh": {
+  "ingredients": "bulgur wheat, parsley, tomatoes, cucumber, mint, lemon juice, olive oil",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Taco Pizza": {
+  "ingredients": "pizza dough (wheat flour), taco beef, salsa, cheddar, lettuce, tomato, sour cream",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Thai Green Curry Chicken & Jasmine Rice": {
+  "ingredients": "chicken, green curry paste, coconut milk, bamboo shoots, basil, fish sauce, jasmine rice",
+  "allergens": [
+   "F"
+  ],
+  "diet": ""
+ },
+ "Thai Yellow Curry Chicken": {
+  "ingredients": "chicken, yellow curry paste, coconut milk, potatoes, onion, fish sauce",
+  "allergens": [
+   "F"
+  ],
+  "diet": ""
+ },
+ "Tijuana Taco Breakfast Bowl": {
+  "ingredients": "scrambled eggs, chorizo, black beans, potatoes, salsa, cheddar, tortilla strips",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Tofu Pad Thai": {
+  "ingredients": "rice noodles, tofu, eggs, bean sprouts, peanuts, tamarind, soy sauce, scallion",
+  "allergens": [
+   "S",
+   "E",
+   "P",
+   "W"
+  ],
+  "diet": "VG"
+ },
+ "Tom Yum - Thai Hot & Sour Soup": {
+  "ingredients": "shrimp, mushrooms, lemongrass, galangal, lime leaves, chili, fish sauce, lime",
+  "allergens": [
+   "SF",
+   "F"
+  ],
+  "diet": ""
+ },
+ "Tomato & Ricotta White Cheese Pizza": {
+  "ingredients": "pizza dough (wheat flour), ricotta, mozzarella, tomatoes, garlic, olive oil",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Tomato Chutney": {
+  "ingredients": "tomatoes, onion, ginger, mustard seeds, sugar, vinegar, chili",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Tuna Salad": {
+  "ingredients": "tuna, mayonnaise, celery, lemon juice, salt, pepper",
+  "allergens": [
+   "F",
+   "E"
+  ],
+  "diet": ""
+ },
+ "Turkey Breakfast Sausage": {
+  "ingredients": "turkey, salt, sage, black pepper, spices",
+  "allergens": [],
+  "diet": ""
+ },
+ "Tuscan Kale": {
+  "ingredients": "kale, garlic, olive oil, chili flakes, lemon",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Vegan Cheese Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, plant-based cheese (coconut oil, potato starch)",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Vegan Oatmeal Cranberry Cookie": {
+  "ingredients": "oats, wheat flour, sugar, coconut oil, dried cranberries, flaxseed",
+  "allergens": [
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Vegan Thai Slaw Salad": {
+  "ingredients": "cabbage, carrots, cilantro, peanuts, lime, soy sauce, rice vinegar",
+  "allergens": [
+   "P",
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Vegetable Fried Rice with Egg": {
+  "ingredients": "rice, eggs, peas, carrots, scallion, soy sauce, sesame oil",
+  "allergens": [
+   "E",
+   "S",
+   "W",
+   "SE"
+  ],
+  "diet": "VG"
+ },
+ "Vegetable Frittata": {
+  "ingredients": "eggs, milk, zucchini, peppers, onion, spinach, parmesan",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Vegetable Stir Fry": {
+  "ingredients": "broccoli, carrots, snap peas, peppers, garlic, ginger, soy sauce",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": "V"
+ },
+ "Vegetable Supreme Pizza": {
+  "ingredients": "pizza dough (wheat flour), tomato sauce, mozzarella, peppers, onions, mushrooms, olives",
+  "allergens": [
+   "W",
+   "M"
+  ],
+  "diet": "VG"
+ },
+ "Western Omelet with Cheese": {
+  "ingredients": "eggs, ham, bell peppers, onions, cheddar cheese, butter",
+  "allergens": [
+   "E",
+   "M"
+  ],
+  "diet": ""
+ },
+ "Western Scrambled Tofu": {
+  "ingredients": "tofu, bell peppers, onions, turmeric, canola oil",
+  "allergens": [
+   "S"
+  ],
+  "diet": "V"
+ },
+ "White Corn Tortilla Shells": {
+  "ingredients": "white corn, lime, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Wild Rice": {
+  "ingredients": "wild rice, vegetable broth, salt",
+  "allergens": [],
+  "diet": "V"
+ },
+ "Wok Stir-Fry Beef Pepper Steak": {
+  "ingredients": "beef sirloin, bell peppers, onions, soy sauce, garlic, ginger, cornstarch",
+  "allergens": [
+   "S",
+   "W"
+  ],
+  "diet": ""
+ }
+}
